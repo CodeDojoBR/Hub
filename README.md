@@ -1,4 +1,4 @@
-![logo](https://github.com/viridiano/code-dojo/blob/master/images/code-dojo_logo.png)
+![logo](https://github.com/CodeDojoBR/Hub/blob/master/code-dojo_logo.png)
 ## O que é o Code Dojo?
 
 Dojo (道場, pronuncia-se dojô) é o local onde se treinam artes marciais japonesas. O termo foi emprestado do Zen Budismo, significando *lugar de iluminação*, onde os monges praticavam a meditação, a concentração, a respiração e os exercícios físicos. No campo do desenvolvimento de software, o Dojo é o lugar de encontro de programadores que buscam exercitar boas práticas de desenvolvimento... ou seja, um “local de treinamento de código” ou “local de treinamento de programação”.
